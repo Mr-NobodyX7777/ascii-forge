@@ -1,0 +1,7 @@
+flask
+opencv-python-headless
+numpy
+pillow
+yt-dlp
+imageio-ffmpeg
+deno
