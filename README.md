@@ -1,6 +1,6 @@
 # ASCII Forge (local web app)
 
-[![CI](https://github.com/Mr-NobodyX7777/ascii-forge/actions/workflows/ci.yml/badge.svg)](https://github.com/Mr-NobodyX7777/ascii-forge/actions/workflows/ci.yml)
+[![CI](https://github.com/Mr-NobodyX7777/ascii-forge/actions/ci.yml/badge.svg)](https://github.com/Mr-NobodyX7777/ascii-forge/actions/ci.yml)
 
 Turn images, GIFs and videos into ASCII art in your browser. It runs as a small
 web server on your own machine, so nothing is uploaded anywhere.
